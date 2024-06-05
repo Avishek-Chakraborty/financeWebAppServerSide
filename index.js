@@ -41,7 +41,6 @@ mongoose
 		// Seed our data base only when needed -->
 		// await mongoose.connection.db.dropDatabase();
 		// KPI.insertMany(kpis);
-		// KPI.insertMany(kpis);
 		// Product.insertMany(products);
 		// Transaction.insertMany(transactions);
 	})
